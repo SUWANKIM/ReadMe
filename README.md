@@ -140,6 +140,12 @@
 
 ## Contact us
 
+<b>대표 김수완</b><br>
+- Mobile / 010-2744-5763
+- E-mail / korean.kim@hotmail.com
+- Adress / 서울특별시 중구 삼일대로 343 12층 104호, 허클베리핀
+<h6>Copyright ⓒ Huckleberry Pin 2019 All rights reserved.</h6>
+
 <br>
 
 
