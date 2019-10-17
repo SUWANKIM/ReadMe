@@ -98,7 +98,7 @@
 
 
 <p><img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/pin.jpg" alt="라라라" 
-        width="16" height="16">"안녕하세요"</p>
+        width="16" height="16">허클베리핀은 '농촌체험'이 아닙니다. <br>df</p>
 
 
 <br>
