@@ -86,7 +86,7 @@
 ## Q. 여행 중 다치면 어떻게 하나요?
 
 - 마을회관과 농가에 상비약이 비치되어 있습니다. 조금이라도 다치면 담당자에게 바로 알려주세요
-- 허클베리핀은 [관광보증보험](https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/insurance.png)에 가입 되어 있습니다 (다쳐도 된다는 말 아닙니다..)
+- 허클베리핀은 [관광보증보험](https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/insurance.png)에 가입 되어 있습니다 (다쳐도 된다는 말 아님..)
 
 
 
@@ -98,7 +98,7 @@
 
 
 <p><img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/pin.jpg" alt="라라라" 
-        width="16" height="16">허클베리핀은 '농촌체험'이 아닙니다. <br>   노동의 대가로 돈이 아닌, 숙박과 음식을 제공 받는 '일' 입니다. </p>
+        width="16" height="16">허클베리핀은 <b>'농촌체험'</b>이 아닙니다. <br>   노동의 대가로 돈이 아닌 <b>숙박</b>과 <b>음식</b>을 제공 받는 <b>'일'</b> 입니다. </p>
 
 
 <br>
