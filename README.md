@@ -109,6 +109,12 @@
 
 <p><img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/pin.jpg" alt="라라라" 
         width="18" height="18">허클베리핀 레퍼런스를 위해 영상 촬영을 할 예정입니다.<br>&nbsp;&nbsp;&nbsp;&nbsp;촬영이 절대 안 되는 분들은 미리 알려주세요.<br>&nbsp;&nbsp;&nbsp;&nbsp;카메라맨에게 전달하겠습니다.</p>
+        
+<br>
+
+<p><img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/pin.jpg" alt="라라라" 
+       width="18" height="18">허클베리핀 여행기를 SNS에 공유해 주세요~<br>&nbsp;&nbsp;&nbsp;&nbsp;공유해 주신 분들께 허클베리핀 굿즈를 드립니다.<br>&nbsp;&nbsp;&nbsp;&nbsp;여행 마지막 날 담당자에게 꼭 보여주세요.</p>        
+
 
 
 
