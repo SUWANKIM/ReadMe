@@ -98,7 +98,7 @@
 
 
 <p><img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/pin.jpg" alt="라라라" 
-        width="16" height="16">허클베리핀은 '농촌체험'이 아닙니다. <br>df</p>
+        width="16" height="16">허클베리핀은 '농촌체험'이 아닙니다. <br>   노동의 대가로 돈이 아닌, 숙박과 음식을 제공 받는 '일' 입니다. </p>
 
 
 <br>
