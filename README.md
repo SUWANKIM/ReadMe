@@ -100,17 +100,16 @@
 <p><img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/pin.jpg" alt="라라라" 
         width="18" height="18">허클베리핀은 <b>'농촌체험'</b>이 아닙니다. <br>&nbsp;&nbsp;&nbsp;&nbsp;노동의 대가로 돈이 아닌 <b>숙박과 음식을 받는 '일'</b>입니다. <br>&nbsp;&nbsp;&nbsp;&nbsp;노동에 책임감을 가져 주세요.</p>
 
-<br>
+
 
 <p><img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/pin.jpg" alt="라라라" 
         width="18" height="18">농장주가 주는 <b>돈 또는 어떠한 작물도 받지 마세요.</b> <br>&nbsp;&nbsp;&nbsp;&nbsp;8시간 노동의 대가는 오직 이틀의 숙박과 음식입니다.</p>
         
-<br>
+
 
 <p><img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/pin.jpg" alt="라라라" 
         width="18" height="18">사과의 품종은 <b>선홍</b>입니다.<br>&nbsp;&nbsp;&nbsp;&nbsp;사과 수확 방식은 농가마다 다릅니다:)<br>&nbsp;&nbsp;&nbsp;&nbsp;농가의 수확 방식을 따라주세요.</p>
 
-<br>
 
 <p><img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/pin.jpg" alt="라라라" 
         width="18" height="18">허클베리핀 레퍼런스를 위해 영상 촬영을 할 예정입니다.<br>&nbsp;&nbsp;&nbsp;&nbsp;촬영이 정말 싫으신 분들은 미리 알려주세요.<br>&nbsp;&nbsp;&nbsp;&nbsp;촬영팀에게 전달하겠습니다.</p>
