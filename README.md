@@ -24,7 +24,8 @@
  
 - 일반적으로 숙련된 노동자 한 명이 8시간 동안 수확하는 사과 무게는 60kg입니다. 하지만 여행객들이 과일 따기 초보임을 고려하여 4-50kg 정도 따 주시면 무난합니다. (더 많이 따주시면 좋고요🍏🍎 )  
 
-
+<br>
+<br>
 <img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/under_pin.png">
 
 
