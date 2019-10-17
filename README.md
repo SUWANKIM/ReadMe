@@ -95,7 +95,7 @@
 <br>
 <br>
 
-<img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/pin.jpg" border="0" align="absmiddle">
+<img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/pin.jpg" border="0" style="vertical-align:top;">
 
 
 
