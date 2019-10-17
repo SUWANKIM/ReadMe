@@ -97,7 +97,7 @@
 
 
 <p><img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/pin.jpg" alt="라라라" 
-        style="width:60px; height:60px">"fkfkfkfkfk"</p>
+        width="60" height="60">"fkfkfkfkfk"</p>
 
 
 
