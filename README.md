@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/1.png" width="870" height="130"/>
+<img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/profile.png" width="870" height="130"/>
 
 
 ## Summary of Skillsㄴㄴ
