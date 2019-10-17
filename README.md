@@ -146,7 +146,7 @@
 
 ## 허클베리핀의 파트너들
 
-<img src=https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/logo.png">
+<img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/logo.png">
 
 - 중소벤처기업부로부터 <b>seed money</b> 투자를 받았습니다.<br>
 - 한국사회적기업진흥원으로부터 <b>seed money</b> 투자를 받았습니다.<br>
