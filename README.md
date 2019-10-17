@@ -132,5 +132,5 @@
 <img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/under_pin.png">
 
 <h6>허클베리핀은 중소벤처기업부로부터 seed money 투자를 받았습니다.<br>
-허클베리핀은 기술보증기금으로부터 </h6>
+허클베리핀은 기술보증기금으로부터 소셜벤처 인증을 받았습니다.</h6>
 
