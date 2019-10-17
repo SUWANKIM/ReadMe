@@ -113,7 +113,7 @@
 <br>
 
 <p><img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/pin.jpg" alt="라라라" 
-       width="18" height="18">허클베리핀 여행기를 SNS에 공유해 주세요~<br>&nbsp;&nbsp;&nbsp;&nbsp;공유해 주신 분들께 허클베리핀 굿즈를 드립니다.<br>&nbsp;&nbsp;&nbsp;&nbsp;<b>#허클베리핀 #huckleberryPin #농촌관광 #봉화군 #소셜벤처</b><br>&nbsp;&nbsp;&nbsp;&nbsp;(여행 마지막 날 담당자에게 꼭 보여주세요.)</p>        
+       width="18" height="18">허클베리핀 여행기를 SNS에 공유해 주세요~<br>&nbsp;&nbsp;&nbsp;&nbsp;공유해 주신 분들께 허클베리핀 굿즈를 드립니다.<br>&nbsp;&nbsp;&nbsp;&nbsp;<b>#허클베리핀 #huckleberryPin #농촌관광 #봉화군</b><br>&nbsp;&nbsp;&nbsp;&nbsp;(여행 마지막 날 담당자에게 꼭 보여주세요.)</p>        
 
 
 
