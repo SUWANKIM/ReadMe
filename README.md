@@ -103,7 +103,7 @@
 <br>
 
 <p><img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/pin.jpg" alt="라라라" 
-        width="18" height="18">허클베리핀은 <b>'농촌체험'</b>이 아닙니다. <br>&nbsp;&nbsp;&nbsp;&nbsp;노동의 대가로 돈이 아닌 <b>숙박과 음식을 받는 '일'</b>입니다. <br>&nbsp;&nbsp;&nbsp;&nbsp;노동에 책임감을 가져 주세요</p>
+        width="18" height="18">농장주가 주는 돈 또는 어떠한 작물도 받지 마세요. <br>&nbsp;&nbsp;&nbsp;&nbsp;8시간 노동의 대가는 오직 이틀의 숙박과 음식입니다</p>
 
 
 
