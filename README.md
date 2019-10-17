@@ -95,11 +95,10 @@
 <br>
 <br>
 <br>
-<br>
 
 
 <p><img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/pin.jpg" alt="라라라" 
-        width="20" height="20">"안녕하세요"</p>
+        width="16" height="16">"안녕하세요"</p>
 
 
 <br>
