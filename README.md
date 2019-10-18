@@ -147,11 +147,11 @@
 
 <img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/logo.png">
 
-- 중소벤처기업부로부터 <b>seed money</b>를 투자 받았습니다.<br>
-- 한국사회적기업진흥원으로부터 <b>seed money</b>를 투자 받았습니다.<br>
-- 강원창조경제혁신센터로부터 <b>seed money</b>를 투자 받았습니다.<br>
-- 기술보증기금으로부터 <b>소셜벤처</b> 인증을 받았습니다.<br>
-- 기술보증기금으로부터 <b>기술평가 B등급</b>을 받았습니다.
+- 중소벤처기업부가 <b>seed money</b>를 투자 했습니다.<br>
+- 한국사회적기업진흥원이 <b>seed money</b>를 투자 했습니다.<br>
+- 강원창조경제혁신센터가 <b>seed money</b>를 투자 했습니다.<br>
+- 기술보증기금에서 <b>소셜벤처</b> 인증을 받았습니다.<br>
+- 기술보증기금에서 <b>기술평가 B등급</b>을 받았습니다.
 
 <br>
 
