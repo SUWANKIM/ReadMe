@@ -129,7 +129,7 @@
 
 ## 허클베리핀의 첫 시작을 함께 해주세요
 
-<img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/poem.png">
+<img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/poem2.png">
 
 
 바쁜 일상에 짧은 쉼표를 찍고 싶은 소셜벤처 <b>허클베리핀</b>입니다.<br><br>
