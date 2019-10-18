@@ -156,7 +156,7 @@
 
 <br>
 
-## Contact us
+## Contact Us
 
 - Mobile / 010-2744-5763
 - E-mail / korean.kim@hotmail.com
