@@ -129,8 +129,8 @@
 
 ## 허클베리핀의 첫 시작을 함께 해주세요
 
-<i>"고요히 앉아본 뒤에야 평상시의 마음이 경박했음을 알았네"</i>
-<h6>명나라 문인 진계유, '뒤에야'</h6>
+<img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/poem.png">
+
 
 바쁜 일상에 짧은 쉼표를 찍고 싶은 소셜벤처 <b>허클베리핀</b>입니다.<br><br>
 
