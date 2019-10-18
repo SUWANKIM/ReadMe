@@ -20,7 +20,7 @@
 
 ## Q. 2박 3일 여행의 일정을 알려주세요!
 
-<img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/process.png">
+<img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/processsss.png">
 
 
 
