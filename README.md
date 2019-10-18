@@ -157,9 +157,9 @@
 
 ## Contact Us
 
-- Mobile/ 010-2744-5763
-- E-mail/ korean.kim@hotmail.com
-- Adress/ 서울특별시 중구 삼일대로 343 12층 104호
+- <b>Mobile.</b>010-2744-5763
+- <b>E-mail.</b>korean.kim@hotmail.com
+- <b>Adress.</b>서울특별시 중구 삼일대로 343 12층 104호
 
 <br>
 
