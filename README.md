@@ -22,6 +22,9 @@
  
 - 프로세스 이미지 첨부
 
+<img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/process.png">
+
+
 <br>
 
 ## Q. 노동 강도는 어느 정도인가요?
