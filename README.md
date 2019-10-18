@@ -157,9 +157,9 @@
 
 ## Contact Us
 
-- Mobile / 010-2744-5763
-- E-mail / korean.kim@hotmail.com
-- Adress / 서울특별시 중구 삼일대로 343 12층 104호, 허클베리핀
+- Mobile/ 010-2744-5763
+- E-mail/ korean.kim@hotmail.com
+- Adress/ 서울특별시 중구 삼일대로 343 12층 104호
 
 <br>
 
