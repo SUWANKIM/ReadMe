@@ -160,7 +160,7 @@
 ## Contact Us
 
 - <b>Mobile.</b>010-2744-5763
-- <b>E-mail.</b>korean.kim@hotmail.com
+- <b>E-mail.</b>huckleberrypin@hotmail.com
 - <b>Adress.</b>서울특별시 중구 삼일대로 343 12층 104호
 
 <br>
