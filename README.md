@@ -113,6 +113,7 @@
 ## Q. 사진 보여주세요!
 
 <img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/pic1.png">
+<img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/pic2.png">
 
 
 
