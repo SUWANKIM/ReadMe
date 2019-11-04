@@ -103,8 +103,8 @@
 
 ## Q. 여행 중 다치면 어떻게 하나요?
 
-- 마을회관과 농가에 상비약이 비치되어 있습니다. 조금이라도 다치면 담당자에게 바로 알려주세요
-- 허클베리핀은 [관광보증보험](https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/insurance.png)에 가입 되어 있습니다 (다쳐도 된다는 말 아님..)
+- 마을회관과 농가에 상비약이 비치되어 있습니다. 조금이라도 다치면 담당자에게 바로 알려주세요.
+- 허클베리핀은 [관광보증보험](https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/insurance.png)에 가입 되어 있습니다. (다쳐도 된다는 말 아님..)
 
 <br>
 
